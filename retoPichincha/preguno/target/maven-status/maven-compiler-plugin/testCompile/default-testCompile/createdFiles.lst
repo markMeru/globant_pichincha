@@ -1,0 +1,3 @@
+org\example\steps\StepHomePage.class
+org\example\runner\SerenityRunnerTest.class
+org\example\definitions\ShopPageDefinitions.class
